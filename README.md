@@ -16,7 +16,7 @@ While testing the site, attempt the following:
 11. Give your assets tags
 12. Search for assets by tag and category
 
-*Note: No instructions for using the website are given here **intentionally**, we would like to gather feedback based on un0guided first impressions.*
+*Note: No instructions for using the website are given here **intentionally**, we would like to gather feedback based on unguided first impressions.*
 
 ### Feedback
 Report any problems through the Github issues page. Create a new issue, be sure to include the page on which the issue occured, and if possible screenshots.
