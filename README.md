@@ -16,6 +16,7 @@ While testing the site, attempt the following:
 11. Give your assets tags
 12. Delete one of your uploaded assets
 13. Search for assets by tag and category
+14. **Test using various devices: mobile devices, PCs, laptops, etc.**
 
 *Note: No instructions for using the website are given here **intentionally**, we would like to gather feedback based on unguided first impressions.*
 
